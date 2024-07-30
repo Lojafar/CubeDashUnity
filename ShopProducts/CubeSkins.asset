@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2721be427d5fed94fb46c326c292d266, type: 3}
+  m_Name: CubeSkins
+  m_EditorClassIdentifier: 
+  skins:
+  - sprite1: {fileID: 185266724, guid: 4b1ec18612841664ba33d65c31c02856, type: 3}
+    sprite2: {fileID: 1779842112, guid: 4b1ec18612841664ba33d65c31c02856, type: 3}
+  - sprite1: {fileID: 1373695026, guid: aeb98ff6c2c5b1347a41091f83b2c773, type: 3}
+    sprite2: {fileID: -789970880, guid: aeb98ff6c2c5b1347a41091f83b2c773, type: 3}
+  - sprite1: {fileID: 871871516, guid: 556380d5977c5e042ae7fd7317fefa43, type: 3}
+    sprite2: {fileID: 422248491, guid: 556380d5977c5e042ae7fd7317fefa43, type: 3}
+  - sprite1: {fileID: 313134031, guid: 3ebb218c4a2613f4ca8745d852b1d259, type: 3}
+    sprite2: {fileID: -1024221397, guid: 3ebb218c4a2613f4ca8745d852b1d259, type: 3}
+  - sprite1: {fileID: 1087167648, guid: 3de908c12d12ae945bff2c762ce4c3ff, type: 3}
+    sprite2: {fileID: -1729639759, guid: 3de908c12d12ae945bff2c762ce4c3ff, type: 3}
+  - sprite1: {fileID: -606280540, guid: b7f1e24b964355643a80fdbe62573672, type: 3}
+    sprite2: {fileID: -1233859178, guid: b7f1e24b964355643a80fdbe62573672, type: 3}
+  - sprite1: {fileID: -1203883486, guid: f6c417a8986a41546bbd7e248fe1e1b0, type: 3}
+    sprite2: {fileID: 1124116402, guid: f6c417a8986a41546bbd7e248fe1e1b0, type: 3}
+  - sprite1: {fileID: 503458941, guid: 58287095693edf746a466fe74fc29e6c, type: 3}
+    sprite2: {fileID: -1681993430, guid: 58287095693edf746a466fe74fc29e6c, type: 3}
+  - sprite1: {fileID: -1674739632, guid: e3d456b932330f849a79187e8dba7555, type: 3}
+    sprite2: {fileID: -357064769, guid: e3d456b932330f849a79187e8dba7555, type: 3}
+  - sprite1: {fileID: -1316135318, guid: 51be28f6f656343459bb29bae81d09a6, type: 3}
+    sprite2: {fileID: -1312167489, guid: 51be28f6f656343459bb29bae81d09a6, type: 3}

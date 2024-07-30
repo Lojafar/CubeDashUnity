@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2721be427d5fed94fb46c326c292d266, type: 3}
+  m_Name: ShipSkins
+  m_EditorClassIdentifier: 
+  skins:
+  - sprite1: {fileID: 672682514, guid: beed1e99ce150e440bbde1fb3eb1ae30, type: 3}
+    sprite2: {fileID: -621478979, guid: beed1e99ce150e440bbde1fb3eb1ae30, type: 3}
+  - sprite1: {fileID: -1567715456, guid: 8d2cc1c5c93f6854eba0121194e2a0f7, type: 3}
+    sprite2: {fileID: -1327415774, guid: 8d2cc1c5c93f6854eba0121194e2a0f7, type: 3}
+  - sprite1: {fileID: 1309768681, guid: 51ed7eb51be21174b95979b80437b147, type: 3}
+    sprite2: {fileID: -1903581667, guid: 51ed7eb51be21174b95979b80437b147, type: 3}
+  - sprite1: {fileID: 478681456, guid: 0cb79807b0a84cc4b82a24f2ad6f3f3e, type: 3}
+    sprite2: {fileID: -1406280510, guid: 0cb79807b0a84cc4b82a24f2ad6f3f3e, type: 3}
+  - sprite1: {fileID: -566281732, guid: 075e4e69e35c56744be40eab9a4792e3, type: 3}
+    sprite2: {fileID: 767880257, guid: 075e4e69e35c56744be40eab9a4792e3, type: 3}

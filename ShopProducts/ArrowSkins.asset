@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2721be427d5fed94fb46c326c292d266, type: 3}
+  m_Name: ArrowSkins
+  m_EditorClassIdentifier: 
+  skins:
+  - sprite1: {fileID: -2060408291, guid: 60f67d9f51443a54c85b157c29617a84, type: 3}
+    sprite2: {fileID: -2061108081, guid: 60f67d9f51443a54c85b157c29617a84, type: 3}
+  - sprite1: {fileID: -580618925, guid: 5d79996dad0f8c3429d5bdefe505f6a2, type: 3}
+    sprite2: {fileID: -1791955756, guid: 5d79996dad0f8c3429d5bdefe505f6a2, type: 3}
+  - sprite1: {fileID: 524901819, guid: 50457904e3aa21f4db11f7a7f65a11bd, type: 3}
+    sprite2: {fileID: 868197147, guid: 50457904e3aa21f4db11f7a7f65a11bd, type: 3}
+  - sprite1: {fileID: -1981043736, guid: 3709a21c8faecbd4ebe20b85b3166ce4, type: 3}
+    sprite2: {fileID: 1548840237, guid: 3709a21c8faecbd4ebe20b85b3166ce4, type: 3}
+  - sprite1: {fileID: -2515805, guid: da23e48f8da75d7409e26db8bbd40edb, type: 3}
+    sprite2: {fileID: -967059598, guid: da23e48f8da75d7409e26db8bbd40edb, type: 3}
+  - sprite1: {fileID: -1443080886, guid: 63fc1691da9c0074f806a0e7ba7b36cc, type: 3}
+    sprite2: {fileID: 964412472, guid: 63fc1691da9c0074f806a0e7ba7b36cc, type: 3}
+  - sprite1: {fileID: -471040669, guid: c82fa4c9d8423ed4c83a3a49f2887c1e, type: 3}
+    sprite2: {fileID: 1518368220, guid: c82fa4c9d8423ed4c83a3a49f2887c1e, type: 3}
